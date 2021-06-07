@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/davindb/HipotesaDeveloper">
+  <a href="http://www.hipotesa.tech/">
     <img src="images/hipotesa.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -29,9 +29,11 @@
     <br />
     <a href="https://github.com/davindb/HipotesaApplication/">View Demo</a>
     ·
-    <a href="https://github.com/davindb/HipotesaDeveloper/issues">Report Bug</a>
+     <a href="http://www.hipotesa.tech/">Our Website</a>
     ·
     <a href="https://github.com/davindb/HipotesaDeveloper/#contributing">Contribute</a>
+    ·
+    <a href="https://github.com/davindb/HipotesaDeveloper/issues">Report Bug</a>
   </p>
 </p>
 
