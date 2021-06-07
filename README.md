@@ -37,6 +37,27 @@
 
 This is the complete guidance on how our API can be implemented to your machine. Feel free to ask a help to us and if you want to contribute to this project just click the contribute button. Let us know what you have created !!!
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#open-endpoints">Open Endpoints</a>
+    </li>
+    <li>
+      <a href="#disease-prediction">Disease Prediction</a>
+    </li>
+    <li><a href="#diseases-list">Diseases List</a></li>
+    <li><a href="#symptoms-list">Symptoms List</a></li>
+    <li><a href="#preform-queries-on-request">Perform Queries on Request</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#copyright">Copyright</a></li>
+
+  </ol>
+</details>
+
 ## Open Endpoints
 
 Our APIs are open endpoints and require **no authentication**
@@ -79,7 +100,7 @@ We recommend you to put at least three key value pairs for getting the most accu
 
 Valid symptom means the symptom that is existed in our database. You can see what symptoms are existed in our database by following the instruction on calling a [Symptoms List](#symptoms-list) request.
 
-## Success Response
+### Success Response
 
 **Code** : `200 OK`
 
@@ -99,7 +120,7 @@ Valid symptom means the symptom that is existed in our database. You can see wha
 }
 ```
 
-## Error Response
+### Error Response
 
 **Condition** : If type of the value is not a string.
 
@@ -123,7 +144,7 @@ Used to get the list of diseases.
 
 **Auth required** : NO
 
-## Success Response
+### Success Response
 
 **Code** : `200 OK`
 
@@ -156,7 +177,7 @@ Used to get the list of symptoms.
 
 **Auth required** : NO
 
-## Success Response
+### Success Response
 
 **Code** : `200 OK`
 
@@ -176,7 +197,7 @@ Used to get the list of symptoms.
 ]
 ```
 
-## Perform queries
+## Perform Queries on Request
 
 These are the available properties to perform queries.
 
@@ -299,7 +320,7 @@ You can also combine all the parameter like the given example below.
 }
 ```
 
-## Success Response
+### Success Response
 
 **Code** : `200 OK`
 
@@ -331,7 +352,7 @@ You can also combine all the parameter like the given example below.
 ]
 ```
 
-## Error Response
+#### Error Response
 
 **Condition** : If type of the key (field) is not valid.
 
@@ -345,7 +366,7 @@ You can also combine all the parameter like the given example below.
 }
 ```
 
-## Error Response
+### Error Response
 
 **Condition** : If type of the value is not valid.
 
@@ -358,3 +379,40 @@ You can also combine all the parameter like the given example below.
   "ErrorMessage": "TypeError: <value> expected to be a string."
 }
 ```
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgements
+
+We are very grateful to all of those with whom we have had the pleasure to work during this and other related projects especially [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) who supported for doing this project. Each of the team members of this project has provided the team extensive personal and professional guidance about both scientific research and life in general especially in healthcare related fields.
+
+<p align="center" style="padding-top: 5px">
+  <a href="https://grow.google/intl/id_id/bangkit/">
+    <img src="images/Bangkit.PNG" alt="Logo" width="50%" height="100%">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="images/hipotesa.png" alt="Logo" width="22%" height="22%" >
+  </a>
+</p>
+
+<!-- COPYRIGHT -->
+
+## Copyright
+
+Kreasi Anak Bangsa group © Copyright 2021 | All Rights Reserved.
