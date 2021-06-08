@@ -19,7 +19,7 @@
     <img src="images/hipotesa.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Hipotesa REST API Documentation</h3>
+  <h3 align="center">Hipotesa Open APIa Documentation</h3>
 
   <p align="center">
     An AI based healthcare system aims to help patients to detect their disease at an early stage to be able to identify the treatment plan early on and help them secure a good way to live.
@@ -29,13 +29,16 @@
     <br />
     <a href="https://github.com/davindb/HipotesaApplication/">View Demo</a>
     ·
-    <a href="https://github.com/davindb/HipotesaDeveloper/issues">Report Bug</a>
+    <a href="http://www.hipotesa.tech">Our Website</a>
     ·
-    <a href="https://github.com/davindb/HipotesaDeveloper/#contributing">Contribute</a>
+    <a href="https://github.com/davindb/HipotesaDeveloper/#contributing">Contribute</a> 
+    ·
+    <a href="https://github.com/davindb/HipotesaDeveloper/issues">Report Bug</a>
+    
   </p>
 </p>
 
-This is the complete guidance on how our API can be implemented to your machine. Feel free to ask a help to us and if you want to contribute to this project just click the contribute button. Let us know what you have created !!!
+This is the complete guidance on how our APIs can be implemented to your machine. Feel free to ask a help to us and if you want to contribute to this project just click the contribute button. Let us know what you have created !!!
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -50,6 +53,7 @@ This is the complete guidance on how our API can be implemented to your machine.
     <li><a href="#diseases-list">Diseases List</a></li>
     <li><a href="#symptoms-list">Symptoms List</a></li>
     <li><a href="#preform-queries-on-request">Perform Queries on Request</a></li>
+    <li><a href="#project-repositories">Project Repositories</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -379,6 +383,15 @@ You can also combine all the parameter like the given example below.
   "ErrorMessage": "TypeError: <value> expected to be a string."
 }
 ```
+
+## Project Repositories
+
+Check our project repositories to know more about Hipotesa.
+
+- [Hipotesa Project](https://github.com/davindb/HipotesaProject)
+- [Hipotesa Application]()
+- [Hipotesa Algorithm](https://github.com/davindb/HipotesaAlgorithm)
+- [Hipotesa Rest API & Cloud Management](https://github.com/Guscah/HipotesaRestAPI)
 
 <!-- CONTRIBUTING -->
 
