@@ -203,7 +203,7 @@ Used to get the list of symptoms.
 
 ## Perform Queries on Request
 
-These are the available properties to perform queries.
+Perform queries is only available for `GET` request. These are the available properties to perform queries.
 
 | Property     | Type            | Description                                                   |
 | :----------- | :-------------- | :------------------------------------------------------------ |
