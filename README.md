@@ -19,7 +19,7 @@
     <img src="images/hipotesa.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Hipotesa Open APIa Documentation</h3>
+  <h3 align="center">Hipotesa Open APIs Documentation</h3>
 
   <p align="center">
     An AI based healthcare system aims to help patients to detect their disease at an early stage to be able to identify the treatment plan early on and help them secure a good way to live.
